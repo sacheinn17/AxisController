@@ -1,4 +1,4 @@
-# scara
+# Axis controller
 
 This is the source code of a mini project I did for my second Year course project
 
